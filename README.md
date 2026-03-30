@@ -1,4 +1,4 @@
-# Hi, I'm Abdullah Rauf 👋
+# Hi, I'm Muhammad Abdullah  👋
 
 Data Science student at **NUST** — learning by building.
 
