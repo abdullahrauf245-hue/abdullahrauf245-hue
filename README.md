@@ -37,7 +37,6 @@ Data Science student at **NUST** — learning by building.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ---
----
 
 ## 🤝 Connect With Me
 
