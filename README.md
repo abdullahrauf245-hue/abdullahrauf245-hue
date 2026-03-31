@@ -14,10 +14,10 @@ Data Science student at **NUST** — learning by building.
 ---
 
 ## 🎯 Events & Experience
-
-- 🏆 **NUST Olympiad** — Worked on one of the biggest events at NUST
-- 🎪 Contributed to several other events and initiatives at NUST
-
+- 🏆 **NUST Olympiad** — Worked as a **Logistics Executive** on one of the biggest events at NUST
+- 🎗️ **HAAMI** — Served as a **Logistics Executive** at NUST's biggest fundraiser event
+- 💰 **EFX** — Served as a **Finance Executive**
+- 💰 **NCF** — Served as a **Finance Executive**
 ---
 
 ## 🌱 About Me
