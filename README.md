@@ -42,6 +42,7 @@ Data Science student at **NUST** — learning by building.
 ## 🤝 Connect With Me
 
 - 📧 Email: abdullahrauf245@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-84159837b/)
 <a href="https://instagram.com/abdullahrauf_11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
