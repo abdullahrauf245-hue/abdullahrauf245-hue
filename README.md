@@ -9,7 +9,7 @@ Data Science student at **NUST** — learning by building.
 | Project | Description |
 |---|---|
 | [NUST Cafe](https://nustcafe.vercel.app/) | My first major project — a web app for NUST students |
-| NUST Events & Society Portal | Currently in development — a centralized hub for NUST events and societies |
+| [NUST Events & Society Portal](https://nust-pulse.vercel.app/) | Currently in development — a centralized hub for NUST events and societies |
 
 ---
 
