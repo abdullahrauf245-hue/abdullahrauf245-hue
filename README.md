@@ -1,4 +1,4 @@
-# hey
+# hello Visitor
 
 i'm abdullah. data science student at NUST who got tired of just watching tutorials 
 and started building actual things. still figuring it out, but that's kind of the point.
