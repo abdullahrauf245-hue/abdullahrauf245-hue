@@ -14,6 +14,8 @@ NUST students because finding out what's for lunch shouldn't feel like a scaveng
 NUST has a hundred societies doing a hundred things and nobody knows about any of them. 
 trying to fix that.
 
+**[Muslim Traders](https://muslim-traders.vercel.app/)** — official PTC distributor in Chakwal. our family business, now on the internet.
+
 ---
 
 ## beyond the screen
