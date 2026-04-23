@@ -50,6 +50,6 @@ not an expert in any of these. getting there.
 
 open to collabs, feedback, or just talking about something you're building.
 
-
-| [![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:abdullahrauf245@gmail.com) | [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/muhammad-abdullah-84159837b/) | [![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://instagram.com/abdullahrauf_11) |
+| [![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg)](mailto:abdullahrauf245@gmail.com) | [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg)](https://www.linkedin.com/in/muhammad-abdullah-84159837b/) | [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg)](https://instagram.com/abdullahrauf_11) |
 |---|---|---|
+
