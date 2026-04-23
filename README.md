@@ -52,14 +52,4 @@ open to collabs, feedback, or just talking about something you're building.
 
 - 📧 abdullahrauf245@gmail.com
 ## 📬 Contact
-<p align="left">
-  <a href="mailto:abdullahrauf245@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="32" height="32" style="filter:invert(1)" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-84159837b/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32" height="32" style="filter:invert(1)" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/abdullahrauf_11">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="32" height="32" style="filter:invert(1)" />
-  </a>
-</p>
+<p align="left"><a href="mailto:abdullahrauf245@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/muhammad-abdullah-84159837b/"><img src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://instagram.com/abdullahrauf_11"><img src="https://img.icons8.com/color/48/instagram-new.png" width="32" height="32" /></a></p>
