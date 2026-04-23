@@ -7,12 +7,12 @@ and started building actual things. still figuring it out, but that's kind of th
 
 ## stuff i've built
 
-**[NUST Cafe](https://nustcafe.vercel.app/)** — where it all started. a web app for 
-NUST students because finding out what's for lunch shouldn't feel like a scavenger hunt.
+**[NUST Cafe](https://nustcafe.vercel.app/)** — Where it all started. Developed as our Semester 1 project for the Fundamentals of Computer Programming course. 
+It's a centralized web app for NUST students because finding out what's for lunch shouldn't feel like a scavenger hunt.
 
-**[NUST Events & Society Portal](https://nust-pulse.vercel.app/)** — work in progress. 
-NUST has a hundred societies doing a hundred things and nobody knows about any of them. 
-trying to fix that.
+**[NUST Events & Society Portal](https://nust-pulse.vercel.app/)** — Work in progress. 
+This is our end-semester project for Object Oriented Programming in Semester 2.
+NUST has a hundred societies doing a hundred things and nobody knows about any of them. We're trying to fix that.
 
 **[Muslim Traders](https://muslim-traders.vercel.app/)** — official PTC distributor in Chakwal. our family business, now on the internet.
 
