@@ -55,12 +55,12 @@ open to collabs, feedback, or just talking about something you're building.
 
 <p align="left">
   <a href="mailto:abdullahrauf245@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-abdullah-84159837b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/abdullahrauf_11">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" />
   </a>
 </p>
