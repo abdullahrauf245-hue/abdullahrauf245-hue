@@ -1,55 +1,183 @@
-# hello visitor! Wassup
+<div align="center">
 
-i'm abdullah. data science student at NUST who got tired of just watching tutorials 
-and started building actual things. still figuring it out, but that's kind of the point.
+# Abdullah Rauf
 
----
+**Data Science Student · Builder · Still Figuring It Out**
 
-## stuff i've built
+[![Profile Views](https://komarev.com/ghpvc/?username=abdullahrauf245&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/abdullahrauf245)
+[![Portfolio](https://img.shields.io/badge/▲_NUST_Cafe-nustcafe.vercel.app-6366f1?style=flat-square)](https://nustcafe.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-84159837b/)
 
-**[NUST Cafe](https://nustcafe.vercel.app/)** — Where it all started. Developed as our Semester 1 project for the Fundamentals of Computer Programming course. 
-It's a centralized web app for NUST students because finding out what's for lunch shouldn't feel like a scavenger hunt.
-
-**[NUST Events & Society Portal](https://nust-pulse.vercel.app/)** — Work in progress. 
-This is our end-semester project for Object Oriented Programming in Semester 2.
-NUST has a hundred societies doing a hundred things and nobody knows about any of them. We're trying to fix that.
-
-**[Muslim Traders](https://muslim-traders.vercel.app/)** — official PTC distributor in Chakwal. our family business, now on the internet.
+</div>
 
 ---
 
-## beyond the screen
+## { About Me }
 
-- **NUST Olympiad** — logistics executive. big event, bigger chaos, we survived
-- **HAAMI** — logistics at NUST's largest fundraiser. learned that "it'll be fine" 
-  is not a plan
-- **EFX & NCF** — finance executive at both. numbers, deadlines, somehow it balanced out
-- **NEC** - Currently working as a admin coordination executive
+```js
+const abdullah = {
+  role        : "Data Science Undergraduate",
+  university  : "NUST, Islamabad · BSDS-3A",
+  hometown    : "Chakwal, Punjab, Pakistan",
+  experience  : ["Building Projects", "Event Logistics", "Finance Executive"],
+  currentFocus: ["OOP (CS212)", "NUST Pulse Portal", "Surviving Semester 2"],
+  contact     : "abdullahrauf245@gmail.com",
+  funFact     : "Got tired of just watching tutorials. Started building instead.",
+};
+```
 
----
-
-## currently
-
-shipping the portal. also probably enrolled in more courses than i should be. 
-classic semester move.
-
----
-
-## tech i'm working with
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-not an expert in any of these. getting there.
+Data science student with hands-on experience building web apps for real problems on campus.
+I work across the stack — frontend, backend, and whatever else the project needs — with a focus on
+things that are actually useful to the people around me.
 
 ---
 
-## in case you liked my work
+## { Tech Stack }
 
-open to collabs, feedback, or just talking about something you're building.
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web & Tools**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+Not an expert in any of these. Getting there.
+
+---
+
+## { Projects }
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ NUST Cafe
+**[nustcafe.vercel.app](https://nustcafe.vercel.app/)**
+
+*Semester 1 · FCP Project*
+
+Centralized menu app for NUST students. Finding out what's for lunch shouldn't feel like a scavenger hunt.
+
+- Built with the BSDS-3A team
+- Live on Vercel
+
+</td>
+<td width="50%">
+
+### 🎯 NUST Pulse Portal
+**[nust-pulse.vercel.app](https://nust-pulse.vercel.app/)**
+
+*Semester 2 · OOP Project · WIP*
+
+NUST has a hundred societies doing a hundred things and nobody knows about any of them. We're fixing that.
+
+- Events & society discovery platform
+- End-semester OOP project
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏪 Muslim Traders
+**[muslim-traders.vercel.app](https://muslim-traders.vercel.app/)**
+
+*Family Business · Personal Project*
+
+Official PTC distributor in Chakwal. Our family business, now on the internet.
+
+</td>
+<td width="50%">
+
+### 📂 More on GitHub
+Browse my repositories for coursework, experiments, and whatever I'm currently breaking.
+
+[![GitHub](https://img.shields.io/badge/View_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahrauf245)
+
+</td>
+</tr>
+</table>
+
+---
+
+## { Experience }
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏅 NUST Olympiad
+**Logistics Executive**
+
+Big event, bigger chaos. We survived.
+
+</td>
+<td width="50%">
+
+### ❤️ HAAMI
+**Logistics Executive**
+
+NUST's largest fundraiser. Learned that *"it'll be fine"* is not a plan.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 EFX & NCF
+**Finance Executive**
+
+Numbers, deadlines, somehow it balanced out.
+
+</td>
+<td width="50%">
+
+### 🗂️ NEC
+**Admin Coordination Executive**
+
+Currently making sure things actually get coordinated.
+
+</td>
+</tr>
+</table>
+
+---
+
+## { GitHub Stats }
+
+<div align="center">
+
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahrauf245&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrauf245&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1)
+
+</div>
+
+---
+
+## { Connect With Me }
+
+<div align="center">
 
 | [![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:abdullahrauf245@gmail.com) | [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/muhammad-abdullah-84159837b/) | [![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://instagram.com/abdullahrauf_11) |
-|---|---|---|
+|:---:|:---:|:---:|
+| **Gmail** | **LinkedIn** | **Instagram** |
+
+Open to collabs, feedback, or just talking about something you're building.
+
+</div>
+
+---
+
+<div align="center">
+  <sub>shipping the portal. also probably enrolled in more courses than i should be. classic semester move.</sub>
+</div>
