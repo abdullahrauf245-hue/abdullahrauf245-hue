@@ -24,6 +24,7 @@ NUST has a hundred societies doing a hundred things and nobody knows about any o
 - **HAAMI** — logistics at NUST's largest fundraiser. learned that "it'll be fine" 
   is not a plan
 - **EFX & NCF** — finance executive at both. numbers, deadlines, somehow it balanced out
+- **NEC** - Currently working as a admin coordination executive
 
 ---
 
