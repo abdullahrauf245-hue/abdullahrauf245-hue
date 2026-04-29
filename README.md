@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdullah Rauf
+# Muhammad Abdullah 
 
 **Data Science Student · Builder · Still Figuring It Out**
 
@@ -63,7 +63,7 @@ Not an expert in any of these. Getting there.
 ### 🍽️ NUST Cafe
 **[nustcafe.vercel.app](https://nustcafe.vercel.app/)**
 
-*Semester 1 · FCP Project*
+*Semester 1 · FOCP Project*
 
 Centralized menu app for NUST students. Finding out what's for lunch shouldn't feel like a scavenger hunt.
 
@@ -152,17 +152,7 @@ Currently making sure things actually get coordinated.
 
 ---
 
-## { GitHub Stats }
 
-<div align="center">
-
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahrauf245&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrauf245&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1)
-
-</div>
-
----
 
 ## { Connect With Me }
 
