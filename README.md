@@ -150,6 +150,7 @@ Currently making sure things actually get coordinated.
 </tr>
 </table>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahrauf245-hue&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 
