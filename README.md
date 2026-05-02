@@ -1,7 +1,16 @@
 <div align="center">
 
-# Muhammad Abdullah 
+<!-- Waving Banner Header -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Muhammad%20Abdullah&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
 
+<br/>
+
+<!-- Styled Tech Stack Line -->
+### C++  |  Java  |  Python  |  SQL  |  JavaScript
+
+<br/>
+
+</div>
 **Data Science Student · Builder · Still Figuring It Out**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abdullahrauf245&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/abdullahrauf245)
