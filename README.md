@@ -149,7 +149,7 @@ Currently making sure things actually get coordinated.
 </td>
 </tr>
 </table>
-## [ GitHub Stats ]
+## { Github Stats }
 
 <div align="center">
 
