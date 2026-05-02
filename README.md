@@ -4,6 +4,11 @@
 
 ## C++  |  Java  |  Python  |  SQL  |  JavaScript
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Java+%7C+SQL+%7C+JS+%7C+HTML+%7C+CSS;Turning+ideas+into+reality)](https://git.io/typing-svg)
+
+</div>
 ---
 
 </div>
