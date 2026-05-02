@@ -17,7 +17,7 @@
 **Data Science Student · Builder · Still Figuring It Out**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abdullahrauf245&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/abdullahrauf245)
-[![Portfolio](https://img.shields.io/badge/▲_NUST_Cafe-nustcafe.vercel.app-6366f1?style=flat-square)](https://abdullah-builds.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/▲Portfolio-abdullah-builds.vercel.app-6366f1?style=flat-square)](https://abdullah-builds.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-84159837b/)
 
 </div>
