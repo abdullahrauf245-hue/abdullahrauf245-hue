@@ -149,8 +149,8 @@ Currently making sure things actually get coordinated.
 </td>
 </tr>
 </table>
-## { Github Stats }
 
+## { Github Stats }
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahrauf245-hue&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
