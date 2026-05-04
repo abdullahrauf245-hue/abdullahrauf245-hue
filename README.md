@@ -29,7 +29,7 @@
 ```js
 const abdullah = {
   role        : "Data Science Undergraduate",
-  university  : "NUST, Islamabad · BSDS-3A",
+  university  : "NUST H12, Islamabad · BSDS-3A",
   hometown    : "Chakwal, Punjab, Pakistan",
   experience  : ["Building Projects", "Event Logistics", "Finance Executive"],
   currentFocus: ["OOP (CS212)", "NUST Pulse Portal", "Surviving Semester 2"],
