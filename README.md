@@ -113,7 +113,7 @@ Official PTC distributor in Chakwal. Our family business, now on the internet.
 ### 📂 More on GitHub
 Browse my repositories for coursework, experiments, and whatever I'm currently breaking.
 
-[![GitHub](https://img.shields.io/badge/View_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahrauf245)
+[![GitHub](https://img.shields.io/badge/View_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahrauf245-hue?tab=repositories)
 
 </td>
 </tr>
