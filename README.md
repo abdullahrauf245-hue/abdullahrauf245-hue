@@ -32,7 +32,7 @@ const abdullah = {
   university  : "NUST H12, Islamabad · BSDS-3A",
   hometown    : "Chakwal, Punjab, Pakistan",
   experience  : ["Building Projects", "Event Logistics", "Finance Executive"],
-  currentFocus: ["OOP (CS212)", "NUST Pulse Portal", "Surviving Semester 2"],
+  currentFocus: ["OOP (CS212)",** Mnkinsey Forward Learner**, "NUST Pulse Portal", "Surviving Semester 2"],
   contact     : "abdullahrauf245@gmail.com",
   funFact     : "Got tired of just watching tutorials. Started building instead.",
 };
