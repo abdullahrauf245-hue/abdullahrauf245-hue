@@ -2,18 +2,16 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Abdullah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student&descColor=a78bfa&descSize=22&descAlignY=58&animation=fadeIn)
 
-## C++  |  Java  |  Python  |  SQL  |  JavaScript
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Java+%7C+SQL+%7C+JS+%7C+HTML+%7C+CSS;Turning+ideas+into+reality;Mckinsey+Forward+Learner)](https://git.io/typing-svg)
-
-</div>
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=a78bfa&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Java+%7C+SQL+%7C+JS+%7C+HTML+%7C+CSS;Turning+ideas+into+reality;McKinsey+Forward+Learner)](https://git.io/typing-svg)
 
 </div>
 
-</div>
+<div align="center">
+
 **Data Science Student · Builder · Still Figuring It Out**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abdullahrauf245&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/abdullahrauf245)
@@ -24,7 +22,7 @@
 
 ---
 
-## { About Me }
+## 🧑‍💻 { About Me }
 
 ```js
 const abdullah = {
@@ -32,19 +30,19 @@ const abdullah = {
   university  : "NUST H12, Islamabad · BSDS-3A",
   hometown    : "Chakwal, Punjab, Pakistan",
   experience  : ["Building Projects", "Event Logistics", "Finance Executive"],
-  currentFocus: ["OOP (CS212)",**Dev weekend fellow**,** Mckinsey Forward Learner**, "NUST Pulse Portal", "Surviving Semester 2"],
+  currentFocus: ["OOP (CS212)", "Dev Weekend Fellow", "McKinsey Forward Learner",
+                 "NUST Pulse Portal", "Surviving Semester 2"],
   contact     : "abdullahrauf245@gmail.com",
   funFact     : "Got tired of just watching tutorials. Started building instead.",
 };
 ```
 
-Data science student with hands-on experience building web apps for real problems on campus.
-I work across the stack — frontend, backend, and whatever else the project needs — with a focus on
-things that are actually useful to the people around me.
+> Data science student with hands-on experience building web apps for real problems on campus.
+> I work across the stack — frontend, backend, and whatever else the project needs — with a focus on things that are actually useful to the people around me.
 
 ---
 
-## { Tech Stack }
+## 🛠️ { Tech Stack }
 
 **Languages**
 
@@ -62,11 +60,11 @@ things that are actually useful to the people around me.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-Not an expert in any of these. Getting there.
+> *Not an expert in any of these. Getting there.*
 
 ---
 
-## { Projects }
+## 🚀 { Projects }
 
 <table>
 <tr>
@@ -121,7 +119,7 @@ Browse my repositories for coursework, experiments, and whatever I'm currently b
 
 ---
 
-## { Experience }
+## 💼 { Experience }
 
 <table>
 <tr>
@@ -162,15 +160,41 @@ Currently making sure things actually get coordinated.
 </tr>
 </table>
 
-## { Github Stats }
+---
+
+## 📊 { GitHub Stats }
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahrauf245-hue&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahrauf245-hue&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=f472b6&text_color=ffffff&bg_color=0d1117)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahrauf245-hue&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
+---
 
-## { Connect With Me }
+## 📈 { Most Used Languages }
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrauf245-hue&layout=compact&theme=tokyonight&hide_border=true&title_color=f472b6&text_color=ffffff&bg_color=0d1117)
+
+</div>
+
+---
+
+## ✍️ { Random Dev Quote }
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 { Connect With Me }
 
 <div align="center">
 
@@ -178,11 +202,13 @@ Currently making sure things actually get coordinated.
 |:---:|:---:|:---:|
 | **Gmail** | **LinkedIn** | **Instagram** |
 
-Open to collabs, feedback, or just talking about something you're building.
+*Open to collabs, feedback, or just talking about something you're building.*
 
 </div>
 
 ---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
 
 <div align="center">
   <sub>shipping the portal. also probably enrolled in more courses than i should be. classic semester move.</sub>
