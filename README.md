@@ -124,7 +124,7 @@ Program Learner
 Forward-thinking curriculum. Figuring out how to apply it.
 
 </td>
-<td width="50%"></td>
+<td width="50%">&nbsp;</td>
 </tr>
 </table>
 
