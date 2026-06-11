@@ -117,6 +117,17 @@ Browse my repositories for coursework, experiments, and whatever I'm currently b
 </tr>
 </table>
 
+📘 McKinsey Forward
+
+Program Learner
+
+Forward-thinking curriculum. Figuring out how to apply it.
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
 ---
 
 ## 💼 { Experience }
