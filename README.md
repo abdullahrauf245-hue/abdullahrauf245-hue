@@ -179,8 +179,7 @@ Currently making sure things actually get coordinated.
 
 ![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahrauf245-hue&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=f472b6&text_color=ffffff&bg_color=0d1117)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahrauf245-hue&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=abdullahrauf245-hue&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 </div>
 
 ---
