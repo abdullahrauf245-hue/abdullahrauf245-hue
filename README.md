@@ -167,6 +167,21 @@ Numbers, deadlines, somehow it balanced out.
 
 Currently making sure things actually get coordinated.
 
+
+
+</td>
+</tr>
+</table>
+</td>
+<td width="50%">
+
+### 🗂️ ZEMT
+**Frontend Development Intern**
+
+Currently making sure things actually looks well on the website.
+
+
+
 </td>
 </tr>
 </table>
