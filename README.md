@@ -117,9 +117,8 @@ Browse my repositories for coursework, experiments, and whatever I'm currently b
 </tr>
 </table>
 
-📘 McKinsey Forward
-
-Program Learner
+### 📘 McKinsey Forward
+**Program Learner**
 
 Forward-thinking curriculum. Figuring out how to apply it.
 
@@ -136,7 +135,7 @@ Forward-thinking curriculum. Figuring out how to apply it.
 <tr>
 <td width="50%">
 
-### 🏅 NUST Olympiad
+### 🏅 NUST Olympiad & NLF 
 **Logistics Executive**
 
 Big event, bigger chaos. We survived.
@@ -160,20 +159,9 @@ NUST's largest fundraiser. Learned that *"it'll be fine"* is not a plan.
 Numbers, deadlines, somehow it balanced out.
 
 </td>
-<td width="50%">
-
-### 🗂️ NEC
-**Admin Coordination Executive**
-
-Currently making sure things actually get coordinated.
-
-
-
-</td>
+<td width="50%">&nbsp;</td>
 </tr>
 </table>
-</td>
-<td width="50%">
 
 ### 🗂️ ZEMT
 **Frontend Development Intern**
