@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 { About Me }
+##  { About Me }
 
 ```js
 const abdullah = {
@@ -42,7 +42,7 @@ const abdullah = {
 
 ---
 
-## 🛠️ { Tech Stack }
+##  { Tech Stack }
 
 **Languages**
 
@@ -64,7 +64,7 @@ const abdullah = {
 
 ---
 
-## 🚀 { Projects }
+##  { Projects }
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ Centralized menu app for NUST students. Finding out what's for lunch shouldn't f
 </td>
 <td width="50%">
 
-### 🎯 NUST Pulse Portal
+###  NUST Pulse Portal
 **[nust-pulse.vercel.app](https://nust-pulse.vercel.app/)**
 
 *Semester 2 · OOP Project · WIP*
@@ -98,7 +98,7 @@ NUST has a hundred societies doing a hundred things and nobody knows about any o
 <tr>
 <td width="50%">
 
-### 🏪 Muslim Traders
+###  Muslim Traders
 **[muslim-traders.vercel.app](https://muslim-traders.vercel.app/)**
 
 *Family Business · Personal Project*
@@ -108,7 +108,7 @@ Official PTC distributor in Chakwal. Our family business, now on the internet.
 </td>
 <td width="50%">
 
-### 📂 More on GitHub
+###  More on GitHub
 Browse my repositories for coursework, experiments, and whatever I'm currently breaking.
 
 [![GitHub](https://img.shields.io/badge/View_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahrauf245-hue?tab=repositories)
@@ -120,13 +120,13 @@ Browse my repositories for coursework, experiments, and whatever I'm currently b
 
 ---
 
-## 💼 { Experience }
+##  { Experience }
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏅 NUST Olympiad & NLF
+###  NUST Olympiad & NLF
 **Logistics Executive**
 
 Big event, bigger chaos. We survived.
@@ -134,7 +134,7 @@ Big event, bigger chaos. We survived.
 </td>
 <td width="50%" valign="top">
 
-### ❤️ HAAMI
+###  HAAMI
 **Logistics Executive**
 
 NUST's largest fundraiser. Learned that *"it'll be fine"* is not a plan.
@@ -144,7 +144,7 @@ NUST's largest fundraiser. Learned that *"it'll be fine"* is not a plan.
 <tr>
 <td width="50%" valign="top">
 
-### 💰 EFX & NCF
+###  EFX & NCF
 **Finance Executive**
 
 Numbers, deadlines, somehow it balanced out.
@@ -152,7 +152,7 @@ Numbers, deadlines, somehow it balanced out.
 </td>
 <td width="50%" valign="top">
 
-### 📘 McKinsey Forward
+###  McKinsey Forward
 **Program Learner**
 
 Forward-thinking curriculum. Figuring out how to apply it.
@@ -162,7 +162,7 @@ Forward-thinking curriculum. Figuring out how to apply it.
 <tr>
 <td colspan="2" valign="top">
 
-### 🗂️ ZEMT
+###  ZEMT
 **Frontend Development Intern**
 
 Currently making sure things actually looks well on the website.
@@ -175,7 +175,7 @@ Currently making sure things actually looks well on the website.
 
 ---
 
-## 📊 { GitHub Stats }
+##  { GitHub Stats }
 
 <div align="center">
 
@@ -186,7 +186,7 @@ Currently making sure things actually looks well on the website.
 
 ---
 
-## 📈 { Most Used Languages }
+## { Most Used Languages }
 
 <div align="center">
 
@@ -196,7 +196,7 @@ Currently making sure things actually looks well on the website.
 
 ---
 
-## ✍️ { Random Dev Quote }
+##  { Random Dev Quote }
 
 <div align="center">
 
@@ -206,7 +206,7 @@ Currently making sure things actually looks well on the website.
 
 ---
 
-## 🌐 { Connect With Me }
+##  { Connect With Me }
 
 <div align="center">
 
