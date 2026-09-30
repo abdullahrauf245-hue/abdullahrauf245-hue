@@ -124,15 +124,15 @@ Browse my repositories for coursework, experiments, and whatever I'm currently b
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏅 NUST Olympiad & NLF 
+### 🏅 NUST Olympiad & NLF
 **Logistics Executive**
 
 Big event, bigger chaos. We survived.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ❤️ HAAMI
 **Logistics Executive**
@@ -142,7 +142,7 @@ NUST's largest fundraiser. Learned that *"it'll be fine"* is not a plan.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 EFX & NCF
 **Finance Executive**
@@ -150,9 +150,7 @@ NUST's largest fundraiser. Learned that *"it'll be fine"* is not a plan.
 Numbers, deadlines, somehow it balanced out.
 
 </td>
-<td width="50%">&nbsp;</td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 ### 📘 McKinsey Forward
 **Program Learner**
@@ -160,21 +158,20 @@ Numbers, deadlines, somehow it balanced out.
 Forward-thinking curriculum. Figuring out how to apply it.
 
 </td>
-<td width="50%">&nbsp;</td>
 </tr>
-</table>
-
+<tr>
+<td colspan="2" valign="top">
 
 ### 🗂️ ZEMT
 **Frontend Development Intern**
 
 Currently making sure things actually looks well on the website.
 
-
-
 </td>
 </tr>
 </table>
+
+
 
 ---
 
