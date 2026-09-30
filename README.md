@@ -117,15 +117,6 @@ Browse my repositories for coursework, experiments, and whatever I'm currently b
 </tr>
 </table>
 
-### 📘 McKinsey Forward
-**Program Learner**
-
-Forward-thinking curriculum. Figuring out how to apply it.
-
-</td>
-<td width="50%">&nbsp;</td>
-</tr>
-</table>
 
 ---
 
@@ -162,6 +153,17 @@ Numbers, deadlines, somehow it balanced out.
 <td width="50%">&nbsp;</td>
 </tr>
 </table>
+
+### 📘 McKinsey Forward
+**Program Learner**
+
+Forward-thinking curriculum. Figuring out how to apply it.
+
+</td>
+<td width="50%">&nbsp;</td>
+</tr>
+</table>
+
 
 ### 🗂️ ZEMT
 **Frontend Development Intern**
